@@ -1,6 +1,8 @@
 html,
 body {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+    scroll-padding-top: 70px;
 }
 
 .section {
@@ -50,3 +52,4 @@ body {
     background-color: var(--bs-primary);
     color: white;
 }
+
